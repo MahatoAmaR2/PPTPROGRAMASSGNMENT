@@ -1,0 +1,3 @@
+Doctype in HTML: HTML Doctype is most often written at the very first element of the entire HTML document. It remains wrapped inside angle brackets but it is not a tag. It is a statement or declaration.  Doctype stands for Document Type. It is a statement to declare the type of the document. With the help of this statement, the developer let the browser know that the following document is an HTML document.
+
+Meaning of Doctype: A doctype or document type declaration (DTD) is an instruction that tells the web browser about the markup language in which the current page is written. The Doctype is not an element or tag, it lets the browser know about the version of or standard of HTML or any other markup language that is being used in the document.

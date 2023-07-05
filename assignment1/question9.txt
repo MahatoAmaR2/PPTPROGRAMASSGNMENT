@@ -1,0 +1,14 @@
+Html Tags:- 
+            1.>HTML tags are generally the starting and ending parts of the HTML code.
+            2.>HTML tags define a way to represent and hold HTML elements in the program.
+            3.>HTML tags begin with < symbol and end with > symbol.
+            4.>HTML tags are like keywords where every single tag has a unique meaning.
+
+HTML Attributes:- 
+            1.>HTML attributes are used to define the character of the HTML elements.
+            2.>HTML attributes are generally used to provide additional styling to the element.
+            3.>HTML attributes are always placed in the opening tag of an element.
+            4.>HTML attributes provide various additional properties to the existing HTML element.
+
+Some global attributes:- 
+                        id, class, etc.

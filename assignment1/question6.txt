@@ -1,0 +1,8 @@
+Some Major Advantages of HTML5:-
+                               1. Cleaner markup/ Improved code
+                               2. Elegant forms
+                               3. Consistency
+                               4. Supports rich media elements
+                               5. Offline Application Cache
+                               6. Improved Accessibility
+                               7. Mutuality
